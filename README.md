@@ -7,4 +7,4 @@ AI last, I will merge your code
 
 And there are some git code for your usage:
 
-![code](img/gitcode.jpeg)
+![code](./img/gitcode.jpeg)
